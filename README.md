@@ -46,12 +46,7 @@ Repositórios para fins educacionais, com o propósito de colocar em prática a 
 
 
 ### Membros da comunidade que já contribuíram:
-<a href="https://github.com/leoviana00/GitTemplate/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=leoviana00/GitTemplate&max=500"/>
-</a>
-
-##
-<div align="center">Feito por <a href="https://github.com/leoviana00">Léo</a>.</div>
+[![Contribuidores](https://images.repography.com/26937047/leoviana00/GitTemplate/top-contributors/21bd728a8e3625b547c91617b3f0fc2a_table.svg)](https://github.com/leoviana00/GitTemplate/graphs/contributors)
 
 ## 📄 Referências
 
